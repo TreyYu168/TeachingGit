@@ -7,3 +7,6 @@
 # Parents
 - Wei Fung Han
 - Wai Hung Chan
+- George Yu
+- Han Chan
+
