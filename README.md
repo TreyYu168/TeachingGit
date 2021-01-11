@@ -2,3 +2,4 @@
 
 # Authors
 - Trey Yu
+- Rhea Chan
