@@ -1,1 +1,4 @@
 # TeachingGit
+
+# Authors
+- Trey Yu
